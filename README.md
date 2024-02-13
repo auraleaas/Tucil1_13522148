@@ -1,4 +1,6 @@
 # Tucil1_13522148 - Cyberpunk 2077 Breach Protocol Solver
+This repository is an archive of files for Tugas Kecil 1 IF2211 Strategi Algoritma.
+
 ## Table of Contents
   - [Table of Contents](#table-of-contents)
   - [General Information](#general-information)
