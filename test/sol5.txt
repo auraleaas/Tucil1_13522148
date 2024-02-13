@@ -1,0 +1,7 @@
+43
+RG RG JJ RG
+1, 1
+1, 2
+4, 2
+4, 3
+Execution time: 1.0800361633300781 ms

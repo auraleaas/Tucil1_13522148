@@ -7,4 +7,4 @@ BD F3 E9 E9 8G BD E9
 7, 6
 7, 7
 4, 7
-Execution time: 12886.95740699768 ms
+Execution time: 12530.200481414795 ms

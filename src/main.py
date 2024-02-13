@@ -156,7 +156,7 @@ save_solution = save_solution.upper()
     
 if save_solution == 'Y':
     save_file = input(">> Enter file name to save with .txt: ")
-    save_path = os.path.join("..", "solution", save_file)
+    save_path = os.path.join("..", "test", save_file)
     save = open(save_path, 'w')
     
     save.write(result_string)

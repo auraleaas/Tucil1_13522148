@@ -1,0 +1,8 @@
+188
+BD AI LL BD LL
+1, 1
+1, 2
+3, 2
+3, 3
+2, 3
+Execution time: 4.518985748291016 ms
